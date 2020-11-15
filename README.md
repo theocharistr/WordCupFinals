@@ -5,7 +5,7 @@ to find out which team has the most win in the Fifa world Cup finals.
 I saved the winners of the finals in a new csv "Winners.csv" and using python, I visualized the 
 data in a world map.
 1st step Run WorldCup.cpp
-2nd step Run WorldMap.ipynb
+2nd step Run WorldMap.ipynb  
 Input:  
 ![Input](https://user-images.githubusercontent.com/41951429/99183646-a6365900-273d-11eb-9bc3-1d92ead04c86.png)  
 Winners:  
